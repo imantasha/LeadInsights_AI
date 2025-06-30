@@ -1,0 +1,11 @@
+domain,email,organization,country,linkedin,score
+openai.com,contact@openai.com,OpenAI,US,https://linkedin.com/in/sam-altman,100
+github.com,support@github.com,GitHub,US,https://linkedin.com/in/thomas-dohmke,100
+example.com,info@example.com,Example Inc,US,https://linkedin.com/in/example-ceo,90
+stripe.com,hello@stripe.com,Stripe,US,https://linkedin.com/in/patrick-collison,100
+airbnb.com,team@airbnb.com,Airbnb,US,https://linkedin.com/in/brian-chesky,100
+dropbox.com,help@dropbox.com,Dropbox,US,https://linkedin.com/in/drew-houston,100
+notion.so,info@notion.so,Notion,US,https://linkedin.com/in/ivan-zhao,100
+figma.com,contact@figma.com,Figma,US,https://linkedin.com/in/dylan-field,100
+coursera.org,support@coursera.org,Coursera,US,https://linkedin.com/in/jeff-mag,100
+quora.com,info@quora.com,Quora,US,https://linkedin.com/in/adam-dangelo,100
