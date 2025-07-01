@@ -3,4 +3,4 @@ requests
 streamlit
 python-dotenv
 googlesearch
-whois
+python-whois
