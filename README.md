@@ -69,6 +69,13 @@ LeadSight AI streamlines the lead enrichment process using free tools (WHOIS + G
 No ML model used. Rule-based scoring logic + enrichment scripts.
 
 ## Evaluation
+
+
+### 📹 Video Walkthrough
+
+Watch the quick demo here:  
+ [Loom Video Walkthrough](https://www.loom.com/share/048786f16dc44f0b978fb53229124d41?t=165)
+
 - Performance tested with 100 leads: avg. enrichment < 1 sec/lead
 - Filtered high-priority leads based on score >15
 - Compatible with future CRM integrations
