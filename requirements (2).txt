@@ -1,5 +1,0 @@
-streamlit
-pandas
-whois
-googlesearch-python
-serpapi
